@@ -1,5 +1,6 @@
 # GoLang
 My first go lang examples
+
 main.go : ilk mainimdi ve print printf println komutlarını deneyip merhaba dünya yazdım
 
 main2.go : slices kullanarak girilen 2 sayının işlemini 3 adet slices da tutan ve en son toplam 3 sayıyı toplayan öğretici ilk hesap makinesini yapıp bir çok kavramı birlikte kullandım
